@@ -1,0 +1,19 @@
+# Archivos temporales de Python
+_pycache_/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración de Spyder
+.spyproject/
+.spyderproject/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
